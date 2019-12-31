@@ -113,6 +113,8 @@ def changing_alan
      
      programmer_hash[:yukihiro_matsumoto][:known_for] = "GUI"
      
+     return programmer_hash
+     
      
      
      
