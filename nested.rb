@@ -112,7 +112,7 @@ def changing_alan
      alans_new_info = "GUI"
      
      programmer_hash[:yukihiro_matsumoto][:known_for] = alans_new_info
-     
+     puts programmer_hash[:yukihiro_matsumoto][:known_for]
      return programmer_hash
      
      
